@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled output
+out/
+*.class
+
+# Build tools
+target/
+build/
